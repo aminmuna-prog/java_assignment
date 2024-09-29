@@ -30,10 +30,9 @@
 - Set low = 0, high = length of array - 1, and flag = false to track whether the CGPA is found.
 #### Binary Search Tree algorithm for finding cgpa 
 
-### 4.Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
+### 4. Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
 
 ### Algorithm
-
 #### Initialize the Array:
 - Create an integer array of size 10 to hold the random integers.
 #### Generate Random Integers:
@@ -42,19 +41,19 @@
 #### Find Maximum and Minimum Values:
 - Loop through the array to compare each elemnet with max and min value.
 
-### 5.Write a program that will break down the amount and count notes for any given amount
+### 5. Write a program that will break down the amount and count notes for any given amount
 ### 6. Write a program that will give following output:   
 #### Use two loop for printing the pattern
 
-### 7.Take input as height of 10 babies in cm. Now find out the 2 lowest height of babies. 
+### 7. Take input as height of 10 babies in cm. Now find out the 2 lowest height of babies. 
 ### Algorithm
 #### Take User Input:
 - Initialize an array to put the heights of 10 babies.
 - traverse a loop to read the heights from the user and store them in the array.
 #### Find Two Lowest Heights:
  - Use a nested loop to compare each height with every other height.
- - 
-### 8.Count number of words, number of characters without spaces, number of vowels and consonant from the given string
+  
+### 8. Count number of words, number of characters without spaces, number of vowels and consonant from the given string
 
 ### Algorithm
 #### Loop through each character of the string:
@@ -69,14 +68,13 @@
 #### Initialize Variables:
 - Convert the input string to lowercase to ensure uniformity.
 - Create a LinkedHashMap to store characters as keys and their corresponding counts as values.
-- 
 #### Count Character Occurrences:
--Convert the string to a character array.
+- Convert the string to a character array.
 #### Iterate through each character in the array:
--if the character is not a space, check if it is already in the map.
--if it is, increment its count; if not, add it to the map with an initial count of one.
+- if the character is not a space, check if it is already in the map.
+- if it is, increment its count; if not, add it to the map with an initial count of one.
 
-### 10.Print the  numbers which are not duplicate from the given array
+### 10. Print the  numbers which are not duplicate from the given array
 #### use nested loop 
 ### 11. Remove Vowels from a String
 #### use loop and if else condition
